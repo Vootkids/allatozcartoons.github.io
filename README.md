@@ -289,10 +289,3 @@ d.write('<center style="background-color: white; box-sizing: border-box; color: 
 
 <center style="background-color: white; box-sizing: border-box; color: #222222; font-family: &quot;Varela Round&quot;; font-size: 10px;">
 <button class="btn" style="background-color: dodgerblue; border-color: initial; border-radius: 0.25rem; border-style: none; border-width: initial; box-sizing: border-box; color: white; cursor: pointer; font-family: inherit; font-size: 18px; font-weight: bold; line-height: 1.5; margin: 0px; overflow: visible; padding: 12px 30px; text-decoration-line: none; text-transform: uppercase; transition: color 0.15s ease-in-out 0s, background-color 0.15s ease-in-out 0s, border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, -webkit-box-shadow 0.15s ease-in-out 0s; user-select: none; vertical-align: middle; white-space: nowrap;"><a href="https://ALLATOZCARTOONS.blogspot.com/" style="background-color: transparent; box-sizing: border-box; color: #ffffff; text-decoration-line: none;" target="_blank">VISIT ALLATOZCARTOONS</a></button></center>
-
-
-<hr style="background-color: white; border-bottom: 0px; border-image: initial; border-left: 0px; border-right: 0px; border-top-color: rgba(0, 0, 0, 0.1); border-top-style: solid; box-sizing: content-box; color: #222222; font-family: &quot;Varela Round&quot;; font-size: 10px; height: 0px; margin-bottom: 1rem; margin-top: 1rem; overflow: visible;" />
-</div>
-<center><a href="https://www.toonshub.ml/" target="_blank" style="text-decoration:underline;color:black;font-weight:900">POWERED BY TOONSHUB.ML</a></center><br/>
-</body>
-</html>
